@@ -10,7 +10,7 @@ The Real-Time Attendance Recognition System utilizes Firebase's real-time storag
 
 ## Features
 
-- Real-time Database and Storrage using Firebase for attendance updation
+- Real-time Database and Storage using Firebase for attendance updation
 - Last attendance time tracking.
 - Number of attendance counts per individual.
 - Change in interface when a new user enters
